@@ -1,0 +1,17 @@
+/* style.css */
+.odd-numbered, .odd-special{
+    background-color: rgb(250, 160, 160);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.odd-special{
+    font-size: 24px;
+}
+#second{
+    color: rgb(0,0,200);
+    font-size: 36px;
+}
+#fourth{
+    background-color: rgb(110,250,110);
+    font-size: 24px;
+    font-weight: bold;
+}
