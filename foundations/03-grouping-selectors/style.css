@@ -1,13 +1,15 @@
 /* style.css */
 .parent {
-    margin: 1rem;
-    padding: 2rem 2rem;
-    text-align: center;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin: 0 auto;
+    display: block;
 }
 .common_sty {
+    margin: 0 auto;
+    display: inline;
     font-size: 28px;
     font-family: "Helvetica", "Times New Roman", sans-serif;
-    padding: 1rem 1rem;
-    vertical-align: middle;
 }
 
